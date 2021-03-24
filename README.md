@@ -1,5 +1,7 @@
 #### 👩‍💻 Choi Eun Ju
-#### 🏫 SEOUL WOMEN'S UNIVERSITY
+
+**🏫 SEOUL WOMEN'S UNIVERSITY**
+**🖥 iOS Development**
 
 <!--
 **jane1choi/jane1choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
