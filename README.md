@@ -2,7 +2,7 @@
 
 **🏫 Seoul Women's University**
 
-**🖥 iOS Development**
+**🖥 iOS Junior Developer**
 
 ### Use Languages and Tools:
 [<code>
