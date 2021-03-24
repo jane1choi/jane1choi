@@ -1,6 +1,6 @@
 #### 👩‍💻 Choi Eun Ju
 
-**🏫 SEOUL WOMEN'S UNIVERSITY**
+**🏫 Seoul Women's University**
 
 **🖥 iOS Development**
 
