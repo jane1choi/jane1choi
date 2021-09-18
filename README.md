@@ -17,6 +17,9 @@
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
+[<code>
+<img alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c++.png" />
+</code>](https://code.visualstudio.com/)
 
 <!--
 **jane1choi/jane1choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
