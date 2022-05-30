@@ -1,38 +1,21 @@
-#### 👩‍💻 Choi Eun Ju
+<h1 align="center"> Hi👋 I'm Eunju Choi </h1>
 
-**🏫 Seoul Women's University**
+<div align="center">
 
-**🖥 iOS Junior Developer**
+[![Blog Badge](https://img.shields.io/badge/Blog-624ea6?style=flat-square&logo=GitHub&logoColor=white)](https://janechoi.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doublev1029@gmail.com)](mailto:doublev1029@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:eunjuzzoo@naver.com)](mailto:eunjuzzoo@naver.com)
+  
+</div>
 
-### Use Languages and Tools:
-[<code>
-<img alt="swift" width="26px" src="https://img.icons8.com/color/48/000000/swift.png">
-</code>](https://swift.org/)
-[<code>
-<img alt="xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png">
-</code>](https://developer.apple.com/xcode/)
-[<code>
-<img alt="xcode" width="26px" src="https://img.icons8.com/color/48/000000/apple-logo.png">
-</code>](https://developer.apple.com/)
-[<code>
-<img alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-</code>](https://isocpp.org)
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
+<h2>Projects</h2>
 
+- iOS Developer - [HP-MP](https://github.com/HP-MP-2020-Summer-Guru2/HP-MP) @서울여자대학교 2020 여름방학 GURU2 대상
+- iOS Developer - [드링크](https://github.com/29th-SOPKATHON-DLink/Client-iOS) @29th SOPKATHON
+- iOS Developer - [나도선배](https://apps.apple.com/kr/app/%EB%82%98%EB%8F%84%EC%84%A0%EB%B0%B0/id1605763068) @29th SOPT App-Jam (released)
+- iOS, Server Developer - [Vegin](https://github.com/Team-Vegin/Vegin-iOS) @2021-22 서울여자대학교 디지털미디어학과 졸업프로젝트
 
-<!--
-**jane1choi/jane1choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Activities</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 29th SOPT iOS Part 수료
+- 30th SOPT iOS Part (ing)
