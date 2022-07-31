@@ -18,4 +18,4 @@
 <h2>Activities</h2>
 
 - 29th SOPT iOS Part 수료
-- 30th SOPT iOS Part (ing)
+- 30th SOPT iOS Part 수료
