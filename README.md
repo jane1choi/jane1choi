@@ -16,5 +16,5 @@
 - iOS Developer - [포그포그](https://github.com/TeamFogFog/FogFog-iOS) @31th SOPT-Term Project 인기상
 <h2>Activities</h2>
 
-- 29th SOPT iOS Part 수료 (2021.09 ~ 2022.01)
-- 30th SOPT iOS Part 수료 (2022.03 ~ 2022.07)
+- 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://www.sopt.org/) 29기 iOS Part 수료 (2021.09 ~ 2022.01)
+- 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://www.sopt.org/) 30기 iOS Part 수료 (2022.03 ~ 2022.07)
