@@ -14,7 +14,9 @@
 - iOS Developer, Lead - [Vegin](https://github.com/Team-Vegin/Vegin-iOS) @2021-22 서울여자대학교 디지털미디어학과 졸업프로젝트
 - iOS Developer, Lead - [POME](https://github.com/TeamPOME/POME-iOS) @30th SOPT App-Jam 대상
 - iOS Developer - [포그포그](https://github.com/TeamFogFog/FogFog-iOS) @31th SOPT-Term Project 인기상
+- iOS Developer - [바스터즈](https://github.com/dnd-side-project/dnd-10th-10-iOS) @DND 10기 프로젝트
 <h2>Activities</h2>
 
 - 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://www.sopt.org/) 29기 iOS Part 수료 (2021.09 ~ 2022.01)
 - 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://www.sopt.org/) 30기 iOS Part 수료 (2022.03 ~ 2022.07)
+- 전국 연합 IT 동아리 [DND](https://www.dnd.ac/project/75) 10기 활동 (2024.01 ~ 2024.02)
